@@ -12,4 +12,4 @@ sudo apt update
 
 #Installing and running Checkra1n
 echo "Installing and running Checkra1n"
-sudo apt install checkra1n && checkra1n
+sudo apt install checkra1n -y && checkra1n
