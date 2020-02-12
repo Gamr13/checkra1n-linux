@@ -1,7 +1,4 @@
 #!/bin/bash
-#Updates
-echo "Updating Linux..."
-sudo apt update && sudo apt upgrade -y
 
 #Adding Checkra1n repo
 echo "Adding Checkra1n repo"
